@@ -1,6 +1,7 @@
 <html lang="ko">
  <head></head>
  <body>
+<img src="./studylogo.png"/>
 <p><b><span style="font-size: 11pt;">모임명 :</span></b> <span style="font-size: 11pt;">코딩 인터뷰 스터디 with 코딩클럽</span></p>
 <p><span style="line-height: 1.5; font-size: 11pt;"><b>코딩 클럽과의 관계
 :</b> with 코딩클럽이라고 표시는 해놨지만, 현재 코딩클럽에서 진행하는 알고리즘 스터디와는 방향이 조금 다를수
@@ -19,7 +20,7 @@
 인터뷰(혹은 기술면접)을 대비하고 싶은데 함께 할 사람이 필요한 사람. 알고리즘 및 자료구조를 공부하고, 토론 및
 Critical Thinking을 하고 싶어하는 사람.&nbsp;</span></p>
 <p><span style="line-height: 1.5; font-size: 11pt;"><b>기간 :</b> 5월
-3일 ~ 7월 1일까지 매주 화/수/목/금. 각자 스터디해온 자료구조/알고리즘에 대한 인터뷰 형식의 발표 및
+3일 ~ 7월 1일까지 매주 수/금. 각자 스터디해온 자료구조/알고리즘에 대한 인터뷰 형식의 발표 및
 피드백.&nbsp;</span></p>
 <p><span style="line-height: 1.5; font-size: 11pt;"><b>장소 :</b> 강남에
 위치한 큰 규모의 카페 인원이 소규모이므로 회의실이나 스터디룸을 빌리기 보단 카페를 활용하려 합니다. 스터디원들이 원하는
