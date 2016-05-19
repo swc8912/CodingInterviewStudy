@@ -1,0 +1,14 @@
+스터디 Github 소스 업로드 방법 공유
+
+1. Github 로그인 후 https://github.com/fabichoi/CodingInterviewStudy 에 접속하여 Fork를 누름
+
+2. 본인이 Fork한 Github을 Clone하여 로컬 저장소에 저장
+(예시: 본인의 계정이 fabi0120이면 git clone https://github.com/fabi0120/CodingInterviewStudy)
+
+3. 소스 작성을 마친 후,
+git add *
+git commit -m '커밋한 내용'
+git push origin master
+(github 아이디와 비번 입력하라고 나옴)
+
+4. github 본인 페이지에 접속하여 pull request 클릭 후 Create pull request을 눌러 변경 내용 작성 후 apply.
