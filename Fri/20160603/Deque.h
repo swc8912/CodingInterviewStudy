@@ -73,6 +73,8 @@ public:
 		{
 			return head;
 		}
+
+		return NULL;
 	}
 
 	void removeBack()
@@ -93,6 +95,8 @@ public:
 		{
 			return tail;
 		}
+
+		return NULL;
 	}
 
 	bool isEmpty()
