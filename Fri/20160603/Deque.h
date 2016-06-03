@@ -55,7 +55,7 @@ public:
 		}
 	}
 
-	Node* removeFront()
+	void removeFront()
 	{
 		if (head != NULL)
 		{
